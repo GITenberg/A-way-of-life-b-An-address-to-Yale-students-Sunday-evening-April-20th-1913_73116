@@ -1,5 +1,8 @@
 _repo: A-way-of-life-b-An-address-to-Yale-students-Sunday-evening-April-20th-1913_73116
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73116-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Osler, William
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/660
     wikipedia: https://en.wikipedia.org/wiki/William_Osler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73116#A-way-of-life-b-An-address-to-Yale-students-Sunday-evening-April-20th-1913
 gutenberg_issued: '2024-03-06'
 gutenberg_type: Text
 identifiers:
